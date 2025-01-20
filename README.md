@@ -1,5 +1,6 @@
 ## Hey, I'm Valeriya 👋
-Auf meinem Weg zur Frontend-Entwicklerin suche ich ein Praktikum oder Coaching, um von Profis zu lernen.
+On my journey to becoming a frontend developer, I am looking for an internship or coaching to learn from professionals.
+
 
 <!--
 **StangeArel/StangeArel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
