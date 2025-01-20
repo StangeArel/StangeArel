@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey, I'm Valeriya 👋
+Auf meinem Weg zur Frontend-Entwicklerin suche ich ein Praktikum oder Coaching, um von Profis zu lernen.
 
 <!--
 **StangeArel/StangeArel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
