@@ -1,4 +1,4 @@
-## Hey, I'm Valeriya 👋
+## Hey, I'm Valeriya <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F20195898319711331%2F&psig=AOvVaw2snwtxDJuYtCIv1N2ePQ0s&ust=1740820170217000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDhkOKC5osDFQAAAAAdAAAAABAE" width="25">
 On my journey to becoming a frontend developer, I am looking for an internship or coaching to learn from professionals.
 
 
