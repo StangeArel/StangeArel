@@ -15,7 +15,7 @@ Finding an internship or trainee program in frontend development to gain hands-o
 
 ---
 
-**## 💻 My Skill Set
+## 💻 My Skill Set
 
 <table><tr><td valign="top" width="50%">
 
