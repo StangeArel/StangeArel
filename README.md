@@ -39,7 +39,7 @@ Finding an internship or trainee program in frontend development to gain hands-o
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>
 </div>
 
-</td></tr></table>
+</td><td valign="top" width="50%">
 
 ### 🌱 Open to Learning  
 <div align="center">  
