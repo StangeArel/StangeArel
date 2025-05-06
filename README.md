@@ -62,9 +62,3 @@ Finding an internship or trainee program in frontend development to gain hands-o
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>  
 </div>  
-
----
-
-<div align="center">
-Generated using <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a>
-</div>
