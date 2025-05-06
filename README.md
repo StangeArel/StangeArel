@@ -1,4 +1,5 @@
-### Hey, I'm Valeriya 👋  
+### Hey, I'm Valeriya <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="30"/>
+
 On my journey to becoming a frontend developer, I am looking for an internship or coaching to learn from professionals.
 
 ---
