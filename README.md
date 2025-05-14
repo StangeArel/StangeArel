@@ -1,4 +1,7 @@
 ### Hey, I'm Valeriya 👋  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+VALERIYA+STANGE.;I+AM+A+FRONTEND.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
+
+
 On my journey to becoming a frontend developer, I am looking for an internship or coaching to learn from professionals.
 
 ---
