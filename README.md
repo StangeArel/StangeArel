@@ -24,25 +24,24 @@ Finding an internship or trainee program in frontend development to gain hands-o
 <table><tr><td valign="top" width="50%">
 
 ### ⚙️ Frontend Tools & Technologies  
-<div align="center">  
-<!-- Sehr häufig genutzt -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://angular.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
-
-<!-- Mittlere Relevanz -->
-<a href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-
-<!-- Weniger häufig genutzt -->
-<a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px; max-width: 500px; margin: 10px;">
+    <h3 style="text-align: center;">⚙️ Frontend Tools & Technologies</h3>
+    <div style="text-align: center;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+      <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+      <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+      <a href="https://angular.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
+      <!-- und so weiter -->
+    </div>
+  </div>
+  <div style="flex: 1; min-width: 300px; max-width: 500px; margin: 10px;">
+    <h3 style="text-align: center;">🚀 Open to Learning</h3>
+    <div style="text-align: center;">
+      <p>TypeScript, Next.js, Vue, Storybook, Cypress...</p>
+    </div>
+  </div>
 </div>
-
 </td><td valign="top" width="50%">
 
 ### 🌱 Open to Learning  
