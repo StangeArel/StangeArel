@@ -21,7 +21,7 @@ Finding an internship or trainee program in frontend development to gain hands-o
 
 ## 💻 My Skill Set
 
-<table align="center"><tr><td valign="top" width="100%">
+<table align="center"><tr><td valign="top" width="50%">
 
 ### ⚙️ Frontend Tools & Technologies  
 <div align="center">  
@@ -52,14 +52,17 @@ Finding an internship or trainee program in frontend development to gain hands-o
 <a href="https://about.gitlab.com/" target="_blank">
   <img src="https://cdn.simpleicons.org/gitlab/FCA121" alt="GitLab" height="50" />
 </a>
+<a href="https://about.gitlab.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" height="50" />
+</a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" alt="Adobe Illustrator" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" height="50" />
 </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Adobe Photoshop" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" height="50" />
 </a>
 
-</td><td valign="top" width="100%">
+</td><td valign="top" width="50%">
 
 ### 🌱 Open to Learning  
 <div align="center">  
