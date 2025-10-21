@@ -45,6 +45,15 @@ Finding an internship or trainee program in frontend development to gain hands-o
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>
 </div>
 
+<!-- Neue Skills -->
+<a href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass/SCSS" height="50" /></a>
+<a href="https://astro.build/" target="_blank"><img src="https://cdn.simpleicons.org/astro" alt="Astro" height="50" /></a>
+<a href="https://bun.sh/" target="_blank"><img src="https://cdn.simpleicons.org/bun" alt="Bun" height="50" /></a>
+<a href="https://about.gitlab.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gitlab-original.svg" alt="GitLab" height="50" /></a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://cdn.simpleicons.org/adobeillustrator" alt="Adobe Illustrator" height="50" /></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://cdn.simpleicons.org/adobephotoshop" alt="Adobe Photoshop" height="50" /></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+
 </td><td valign="top" width="50%">
 
 ### 🌱 Open to Learning  
